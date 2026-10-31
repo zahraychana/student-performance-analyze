@@ -1,0 +1,31 @@
+factor,type,effect_mat,status_mat,effect_por,status_por,category
+absences,numeric,-0.40601503759398494,Passes criteria,-0.18538324420677366,Not significant,Mathematics-specific
+goout,ordinal,-0.39924812030075185,Passes criteria,-0.15819964349376114,Not significant,Mathematics-specific
+age,numeric,-0.36353383458646615,Passes criteria,0.08845811051693397,Not significant,Mathematics-specific
+failures,ordinal,-0.21240601503759393,Not significant,-0.13146167557932265,Not significant,Not significant
+romantic,binary,-0.20149814827784063,Not significant,-0.10356107385989036,Not significant,Not significant
+famrel,ordinal,0.16992481203007515,Not significant,-0.09001782531194291,Not significant,Not significant
+school,binary,-0.15338062347825973,Not significant,-0.12124016391296132,Not significant,Not significant
+activities,binary,0.11867264050787713,Not significant,-0.02762730461303179,Not significant,Not significant
+higher,binary,0.11521434673904565,Not significant,0.0740083253100632,Not significant,Not significant
+paid,binary,0.10491711691204303,Not significant,-0.11784401459644048,Not significant,Not significant
+guardian,nominal,0.102775042621965,Not significant,0.0,Not significant,Not significant
+Fjob,nominal,0.10196111183851192,Not significant,0.03777075502296994,Not significant,Not significant
+schoolsup,binary,0.10130411531289266,Not significant,0.1130588188480701,Not significant,Not significant
+health,ordinal,-0.09999999999999998,Not significant,0.07909982174688057,Not significant,Not significant
+freetime,ordinal,-0.09774436090225569,Not significant,-0.04188948306595364,Not significant,Not significant
+sex,binary,-0.0856833472585365,Not significant,0.045495111768245965,Not significant,Not significant
+Medu,ordinal,-0.06654135338345868,Not significant,-0.009358288770053513,Not significant,Not significant
+internet,binary,-0.06062301394339179,Not significant,-0.08995960600569437,Not significant,Not significant
+studytime,ordinal,0.05563909774436082,Not significant,-0.04991087344028522,Not significant,Not significant
+traveltime,ordinal,-0.05451127819548873,Not significant,0.13970588235294112,Not significant,Not significant
+Dalc,ordinal,-0.05112781954887213,Not significant,0.0015597147950088264,Not significant,Not significant
+address,binary,-0.034837348119733734,Not significant,0.027338480833725306,Not significant,Not significant
+nursery,binary,-0.029938762394009458,Not significant,-0.09667189344555838,Not significant,Not significant
+Walc,ordinal,-0.02631578947368418,Not significant,-0.06506238859180036,Not significant,Not significant
+famsize,binary,0.02404930351219412,Not significant,-0.058303855222389095,Not significant,Not significant
+Pstatus,binary,0.013710212427677058,Not significant,0.1026994323977522,Not significant,Not significant
+famsup,binary,-0.013710212427677029,Not significant,-0.048601030276352035,Not significant,Not significant
+Fedu,ordinal,0.006390977443609058,Not significant,0.02384135472370774,Not significant,Not significant
+Mjob,nominal,0.0,Not significant,0.21670991518045246,Not significant,Not significant
+reason,nominal,0.0,Not significant,0.0,Not significant,Not significant

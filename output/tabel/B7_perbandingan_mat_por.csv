@@ -1,0 +1,31 @@
+faktor,tipe,efek_mat,status_mat,efek_por,status_por,kategori
+absences,numerik,-0.40601503759398494,Lolos,-0.18538324420677366,Tidak bermakna,Khas Matematika
+goout,ordinal,-0.39924812030075185,Lolos,-0.15819964349376114,Tidak bermakna,Khas Matematika
+age,numerik,-0.36353383458646615,Lolos,0.08845811051693397,Tidak bermakna,Khas Matematika
+failures,ordinal,-0.21240601503759393,Tidak bermakna,-0.13146167557932265,Tidak bermakna,Tidak bermakna
+romantic,biner,-0.20149814827784063,Tidak bermakna,-0.10356107385989022,Tidak bermakna,Tidak bermakna
+famrel,ordinal,0.16992481203007515,Tidak bermakna,-0.09001782531194291,Tidak bermakna,Tidak bermakna
+school,biner,-0.15338062347825973,Tidak bermakna,-0.12124016391296155,Tidak bermakna,Tidak bermakna
+activities,biner,0.11867264050787713,Tidak bermakna,-0.02762730461303185,Tidak bermakna,Tidak bermakna
+higher,biner,0.11521434673904565,Tidak bermakna,0.07400832531006353,Tidak bermakna,Tidak bermakna
+paid,biner,0.10491711691204303,Tidak bermakna,-0.11784401459644078,Tidak bermakna,Tidak bermakna
+guardian,nominal,0.102775042621965,Tidak bermakna,0.0,Tidak bermakna,Tidak bermakna
+Fjob,nominal,0.10196111183851192,Tidak bermakna,0.03777075502296994,Tidak bermakna,Tidak bermakna
+schoolsup,biner,0.10130411531289266,Tidak bermakna,0.11305881884807056,Tidak bermakna,Tidak bermakna
+health,ordinal,-0.09999999999999998,Tidak bermakna,0.07909982174688057,Tidak bermakna,Tidak bermakna
+freetime,ordinal,-0.09774436090225569,Tidak bermakna,-0.04188948306595364,Tidak bermakna,Tidak bermakna
+sex,biner,-0.0856833472585365,Tidak bermakna,0.045495111768246034,Tidak bermakna,Tidak bermakna
+Medu,ordinal,-0.06654135338345868,Tidak bermakna,-0.009358288770053513,Tidak bermakna,Tidak bermakna
+internet,biner,-0.06062301394339179,Tidak bermakna,-0.08995960600569457,Tidak bermakna,Tidak bermakna
+studytime,ordinal,0.05563909774436082,Tidak bermakna,-0.04991087344028522,Tidak bermakna,Tidak bermakna
+traveltime,ordinal,-0.05451127819548873,Tidak bermakna,0.13970588235294112,Tidak bermakna,Tidak bermakna
+Dalc,ordinal,-0.05112781954887213,Tidak bermakna,0.0015597147950088264,Tidak bermakna,Tidak bermakna
+address,biner,-0.034837348119733734,Tidak bermakna,0.027338480833725337,Tidak bermakna,Tidak bermakna
+nursery,biner,-0.029938762394009458,Tidak bermakna,-0.09667189344555852,Tidak bermakna,Tidak bermakna
+Walc,ordinal,-0.02631578947368418,Tidak bermakna,-0.06506238859180036,Tidak bermakna,Tidak bermakna
+famsize,biner,0.02404930351219412,Tidak bermakna,-0.05830385522238909,Tidak bermakna,Tidak bermakna
+Pstatus,biner,0.013710212427677058,Tidak bermakna,0.10269943239775242,Tidak bermakna,Tidak bermakna
+famsup,biner,-0.013710212427677029,Tidak bermakna,-0.04860103027635198,Tidak bermakna,Tidak bermakna
+Fedu,ordinal,0.006390977443609058,Tidak bermakna,0.02384135472370774,Tidak bermakna,Tidak bermakna
+Mjob,nominal,0.0,Tidak bermakna,0.21670991518045246,Tidak bermakna,Tidak bermakna
+reason,nominal,0.0,Tidak bermakna,0.0,Tidak bermakna,Tidak bermakna
